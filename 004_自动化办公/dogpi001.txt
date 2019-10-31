@@ -1,0 +1,4 @@
+dogpi is a good dog
+dogpi is a nice dog
+hello python 
+hello c++
